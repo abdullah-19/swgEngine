@@ -7,6 +7,7 @@ Es totalmente compatible con los widgets de interfaz de usuario **Swing**.
 El **framework** incorpora:
 
 Clases para la gestion del contenedor del Juego/Animacion.
+
 Clase base de la Animacion que incluye:
 *	Ciclo de la Animacion **(GameLoop)**.
 *	**Doble Buffer**.
